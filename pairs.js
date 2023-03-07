@@ -3,21 +3,27 @@ const pairs = [
     id: 1,
     base: 'BTC',
     quote: 'USD',
-    price: 50000,
+    price: 22436,
   },
   {
     id: 2,
     base: 'BTC',
     quote: 'EUR',
-    price: 40000,
+    price: 21000,
   },
   {
     id: 3,
     base: 'BTC',
     quote: 'GBP',
-    price: 30000,
+    price: 18332,
   },
-]
+  {
+    id: 4
+    base: 'BTC'
+    quote: 'BRL'
+    price: 100000,
+  }
+  ],
 
 async function addPairsToDb() {
   for (const pair of pairs) {
