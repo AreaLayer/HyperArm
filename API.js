@@ -8,7 +8,7 @@ app.get('/pairs', async (req, res) => {
 })
 
 // Get a specific pair by ID
-app.get('/pairs/:id', async (req, res) => {
+app.get('/pairs/:3', async (req, res) => {
   const pair = await db.get(req.params.id)
   if (!pair) {
     return res.status(404).send('Pair not found')
@@ -17,7 +17,7 @@ app.get('/pairs/:id', async (req, res) => {
 })
 
 // Update a pair by ID
-app.put('/pairs/:id', express.json(), async (req, res) => {
+app.put('/pairs/4', express.json(), async (req, res) => {
   const pair = await db.get(req.params.id)
   if (!pair) {
     return res.status(404).send('Pair not found')
