@@ -1,1 +1,6 @@
-import as 'reactapp'
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
