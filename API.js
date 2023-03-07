@@ -9,7 +9,7 @@ app.get('/pairs', async (req, res) => {
 
 // Get a specific pair by ID
 app.get('/pairs/:3', async (req, res) => {
-  const pair = await db.get(req.params.id)
+  const pair = await db.get(req.params.id3)
   if (!pair) {
     return res.status(404).send('Pair not found')
   }
