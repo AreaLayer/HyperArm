@@ -16,7 +16,7 @@ npm install hyperbee hypercore
 Run local server
 
 ```
-
+http://localhost:3000/
 ```
 
 
