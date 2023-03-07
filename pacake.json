@@ -1,1 +1,10 @@
+{
+"name":"Hypearm"
+"version":"1.0.0"
+"license":"MIT"
 
+"package"
+"name":"Hyperbee"
+"link":"//github.com/holepunchto/hyperbee"
+"license":"MIT"
+"version":"2.5.0"
