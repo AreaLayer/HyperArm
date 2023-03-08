@@ -7,11 +7,11 @@ Our product offer API price basead on Hypercore and HyperBee
 
 # Features
 
-Real price time
+*Real price time
 
-Bitcoin-only, not shitcoins
+*Bitcoin-only, not shitcoins
 
-P2P API powered by Hyperbee
+*P2P API powered by Hyperbee
 
 
 # How install
