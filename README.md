@@ -12,6 +12,11 @@ Install Hyperbee from HyperCore
 ```
 npm install hyperbee hypercore
 ```
+```
+Get pairs
+
+```
+curl http://localhost:3000/pairs
 
 Run local server
 
