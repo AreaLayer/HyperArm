@@ -35,4 +35,4 @@ http://localhost:3000/
 
 #ToDo
 
--[ ] Lightning Network integration 
+- [ ] Lightning Network integration 
