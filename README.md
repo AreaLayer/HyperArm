@@ -3,6 +3,7 @@
  P2P API for Hypercore 
  
 # Service
+
 Our product offer API price basead on Hypercore and HyperBee
 
 # Features
@@ -21,7 +22,7 @@ Install Hyperbee from HyperCore
 ```
 npm install hyperbee hypercore
 ```
-Run local serve
+Run local server
 
 ```
  http://localhost:3000/
