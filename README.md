@@ -35,4 +35,4 @@ curl http://localhost:3000/pairs
 
 # To-Do
 
-- [ ] Lightning Network integration 
+- [X] Lightning Network integration 
