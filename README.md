@@ -18,6 +18,9 @@ Our product offer API price basead on Hypercore and HyperBee
 
 ![image](https://user-images.githubusercontent.com/83122757/227910229-23a84e4e-03d8-4bd9-be8d-97051adada0c.png)
 
+
+More info here: https://arealayer.github.io/HyperArm/
+
 # How install
 
 Install Hyperbee from HyperCore
