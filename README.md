@@ -38,7 +38,3 @@ Get pair
 ```
 curl http://localhost:3000/pairs
 ```
-
-# To-Do
-
-- [X] Lightning Network integration 
