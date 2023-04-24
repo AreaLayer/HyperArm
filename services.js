@@ -8,7 +8,7 @@ const api = require('coin')
 
 // Create a new Hypercore instance
 const feed = new Hypercore('./bitcoin-pairs-feed', {
-  valueEncoding: 'json',
+  valueEncoding: 'json', 'coin.json'
   secretKey: crypto.randomBytes(32),
 })
 
