@@ -1,4 +1,6 @@
-    "version":"1.0.0"          
+{  
+   "name":"Coinmarketcap"
+   "version":"1.0.0"          
     "id": 1,
     "name": "Bitcoin",
     "symbol": "BTC",
