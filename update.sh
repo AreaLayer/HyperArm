@@ -5,3 +5,4 @@ curl http://localhost:3000/pairs
 curl http://localhost:3000/pairs/2
 
 # Update pair
+curl http://localhost:30000/pairs
