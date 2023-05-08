@@ -1,9 +1,9 @@
 {  
-   "name":"Coinmarketcap"
+   "name":"Zebedee"
    "version":"1.0.0"          
     "response":{
 "data":{
 "btcUsdPrice":"27796"
 "btcUsdTimestamp":"1683567880"
 }
-}
+
