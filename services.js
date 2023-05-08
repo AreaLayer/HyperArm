@@ -8,12 +8,12 @@ const api = require('coin')
 
 // Create a new Hypercore instance
 const feed = new Hypercore('./bitcoin-pairs-feed', {
-  valueEncoding: 'json', 'coin.json'
+  valueEncoding: 'coin.json'
   secretKey: crypto.randomBytes(32),
 })
 
 // Create a new Hyperbee instance
 const db = new Hyperbee(feed, {
   keyEncoding: 'utf-8',
-  valueEncoding: 'json',
+  valueEncoding: 'con.json'
 })
