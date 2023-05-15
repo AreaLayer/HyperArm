@@ -38,3 +38,9 @@ Get pair
 ```
 curl http://localhost:3000/pairs
 ```
+
+# Contribution
+
+- Open PR for new features
+
+- Open issues if you found bug
