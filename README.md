@@ -39,6 +39,13 @@ Get pair
 curl http://localhost:3000/pairs
 ```
 
+# Roadmap
+
+- [ ] Beta software
+- [ ] Final tests
+- [ ] Integration with Hyperswarm and Hyperdrive for more P2P options
+
+
 # Contribution
 
 - Open PR for new features
