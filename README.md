@@ -23,10 +23,10 @@ More info here: https://arealayer.github.io/HyperArm/
 
 # How install
 
-Install Hyperbee from HyperCore
+Install Hyperbee, Hyperdrive and hyperswarm from HyperCore
 
 ```
-npm install hyperbee hypercore
+npm install hyperbee hypercore hyperdrive hyperswarm
 ```
 Run local server
 
