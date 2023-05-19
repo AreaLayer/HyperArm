@@ -1,6 +1,6 @@
 # HyperArm 🕳️🥊
 
- P2P API for Hypercore 
+ P2P API Bitcoin prices on Hypercore
  
 # Service
 
