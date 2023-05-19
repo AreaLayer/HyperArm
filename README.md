@@ -22,11 +22,11 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 
 <p align="center">
   <a href="https://github.com/AreaLayer/HyperArm" title="AreaLayer">
-    <img alt="Hyperarm" src="./src/hyperarm_logo_readme.png" width="150"></img>
+    <img alt="Hyperarm" src="./src/hyperarm_logo_readme.png" width="200"></img>
   </a>
 </p>
 
-<h3 align="center">FireBolt</h3>
+<h3 align="center">Hyperarm</h3>
 
 
 # How install
