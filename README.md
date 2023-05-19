@@ -8,15 +8,15 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 
 # Features
 
-*Real price time
+- Real price time
 
-*Bitcoin-only, not shitcoins
+- Bitcoin-only, not shitcoins
 
-*P2P API powered by Hyperbee
+- P2P API powered by Hyperbee
 
-*DHT (Distributed hash table) with Hyperswarm
+- DHT (Distributed hash table) with Hyperswarm
 
-*Hyperdrive for peer-to-peer file management
+- Hyperdrive for peer-to-peer file management
 
 # Demo Bitcoin Prices
 
