@@ -20,8 +20,6 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 
 # How works?
 
-<p align="center">
-  <a href="https://github.com/AreaLayer/HyperArm" title="AreaLayer">
     <img alt="Hyperarm" src="./src/hyperarm_logo_readme.png" width="200"></img>
   </a>
 </p>
