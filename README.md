@@ -48,4 +48,4 @@ curl http://localhost:3000/pairs
 
 # Contribution
 
-
+[Contributions rules](https://github.com/AreaLayer/HyperArm/blob/main/CONTRIBUTING.md)
