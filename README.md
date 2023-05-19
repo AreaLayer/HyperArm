@@ -42,7 +42,7 @@ curl http://localhost:3000/pairs
 # Roadmap
 
 - [ ] Beta software
-- [ ] Final tests
+- [x] Final tests
 - [x] Integration with Hyperswarm and Hyperdrive for more P2P options
 
 
