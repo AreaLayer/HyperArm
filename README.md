@@ -26,9 +26,6 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
   </a>
 </p>
 
-<h3 align="center">Hyperarm</h3>
-
-
 # How install
 
 Install Hyperbee, Hyperdrive and hyperswarm from HyperCore
