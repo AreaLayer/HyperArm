@@ -18,11 +18,9 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 
 - Hyperdrive for peer-to-peer file management
 
-# How works?
+# How works
 
-    <img alt="Hyperarm" src="./src/hyperarm_logo_readme.png" width="200"></img>
-  </a>
-</p>
+https://github.com/AreaLayer/HyperArm/blob/main/src/hyperarm_logo_readme.png
 
 # How install
 
