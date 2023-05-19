@@ -4,7 +4,7 @@
  
 # Service
 
-Our product offer API price basead on Hypercore and HyperBee
+Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperdrive
 
 # Features
 
@@ -13,6 +13,10 @@ Our product offer API price basead on Hypercore and HyperBee
 *Bitcoin-only, not shitcoins
 
 *P2P API powered by Hyperbee
+
+*DHT (Distributed hash table) with Hyperswarm
+
+*Hyperdrive for peer-to-peer file management
 
 # Demo Bitcoin Prices
 
