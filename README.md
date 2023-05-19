@@ -40,13 +40,6 @@ Get pair
 curl http://localhost:3000/pairs
 ```
 
-# Roadmap
-
-- [ ] Beta software
-- [x] Final tests
-- [x] Integration with Hyperswarm and Hyperdrive for more P2P options
-
-
 # Contribution
 
 [Contributions rules](https://github.com/AreaLayer/HyperArm/blob/main/CONTRIBUTING.md)
