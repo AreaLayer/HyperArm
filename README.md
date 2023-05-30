@@ -2,11 +2,11 @@
 
  P2P API Bitcoin prices on Hypercore
  
-# Service
+## Service
 
 Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperdrive
 
-# Features
+## Features
 
 - Real price time
 
@@ -22,24 +22,10 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 
 [Checkout here](https://github.com/AreaLayer/HyperArm/blob/main/src/hyperarm_logo_readme.png)
 
-# How install
+## How install
 
-Install Hyperbee, Hyperdrive and hyperswarm from HyperCore
+[Check here]
 
-```
-npm install hyperbee hypercore hyperdrive hyperswarm
-```
-Run local server
-
-```
- http://localhost:3000/
-```
-
-Get pair 
-```
-curl http://localhost:3000/pairs
-```
-
-# Contribution
+## Contribution
 
 [Contributions rules](https://github.com/AreaLayer/HyperArm/blob/main/CONTRIBUTING.md)
