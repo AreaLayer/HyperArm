@@ -24,7 +24,7 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 
 ## How install
 
-[Check here]
+[Check here](https://github.com/AreaLayer/HyperArm/blob/main/docs/run.md)
 
 ## Contribution
 
