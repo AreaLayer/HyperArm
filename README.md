@@ -1,5 +1,7 @@
 # HyperArm 🕳️🥊
 
+**Disclaimer**: Beta Software
+
  P2P API Bitcoin prices on Hypercore
  
 ## Service
