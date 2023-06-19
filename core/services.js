@@ -1,7 +1,8 @@
 const Hyperbee = require('@holepunch/hyperbee')
 const Hypercore = require('@holepunch/hypercore')
 const Hyperdrive = require('@holepunch/hyperdrive')
-const Hyperswarm = require('@holepunch/hyperswarm
+const Hyperswarm = require('@holepunch/hyperswarm');
+const Bitfinex = require('bitifinex_price_feed');
 const { promisify } = require('util')
 const crypto = require('crypto')
 const express = require('express')
