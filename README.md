@@ -34,5 +34,5 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 
 ## Roadmap
 
-- [ ] Bitifinex API
+- [x] Bitifinex API
 - [ ] [Subscription plan Beta](https://github.com/AreaLayer/Hyperarm-demo)
