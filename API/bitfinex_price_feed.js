@@ -1,6 +1,18 @@
-const options = {method: 'GET', headers: {accept: 'application/json'}};
+const = require('apiPath');
 
-fetch('https://api-pub.bitfinex.com/v2/ticker/tBTCUSD', options)
-  .then(response => response.json())
-  .then(response => console.log(response))
-  .catch(err => console.error(err));
+function getExchangeRate() {
+    const apiPath = 'v2/auth/r/orders/tBTCUSD/hist' // or 'v2/auth/r/orders/hist'
+fetch(`https://api.bitfinex.com/${apiPath}`, {
+  method:'POST',
+  body: JSON.stringify({}),
+  headers: {
+    /* auth headers */
+  }
+})
+.then(res => res.json())
+.then(json => console.log(json))
+
+      const btcToUsdtRate = 35000; // Dummy value, replace with actual exchange rate
+
+      return btcToUsdtRate;
+    }
