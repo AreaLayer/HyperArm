@@ -32,3 +32,5 @@ async function addPairsToDb() {
 }
 
 addPairsToDb()
+
+const bitifinex_price_feed
