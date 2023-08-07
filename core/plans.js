@@ -1,6 +1,7 @@
 const plans = require('hyperarm');
 
 class plan 1 = {
+  plan 1: 
 
 class plan 2 = {
 
