@@ -12,7 +12,7 @@ mongoose.connect('mongodb://localhost:27017/subscription_plans', {
 
 const subscriptionPlanSchema = new mongoose.Schema({
   name: String,
-  price: Number,
+  price: Sats,
   description: String,
 });
 
