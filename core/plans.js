@@ -12,10 +12,13 @@ mongoose.connect('mongodb://localhost:27017/subscription_plans', {
 
 const subscriptionPlanSchema = new mongoose.Schema({
   name: String,
-  price: Sats,
+  price: Number,
   description: String,
 });
-
+const subscriptionPlaSChema = new monogoose.Schema ({
+name: Plans,
+price: Sats,
+});
 const SubscriptionPlan = mongoose.model('SubscriptionPlan', subscriptionPlanSchema);
 
 app.use(bodyParser.json());
