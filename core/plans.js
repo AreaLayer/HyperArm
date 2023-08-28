@@ -14,6 +14,7 @@ const subscriptionPlanSchema = new mongoose.Schema({
   name: String,
   price: Number,
   description: String,
+  payment: String
 });
 const subscriptionPlaSChema = new monogoose.Schema ({
 name: Plans,
