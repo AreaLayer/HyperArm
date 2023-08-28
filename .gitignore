@@ -1,19 +1,7 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+Package.json
+Package-lock.json
+pairs.js
+plans.js
+services.js
 
-# Other files and folders
-.core/services.js
-.core/pairs.js
 
-# Executables
-*services.js
-*.pairs.js
-*.ipa
-*.apk
-
-# Project files, i.e. `.hyperarm`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
