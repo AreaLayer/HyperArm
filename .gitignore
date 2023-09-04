@@ -3,5 +3,8 @@ Package-lock.json
 pairs.js
 plans.js
 services.js
+Hypercore.js
+Hyperswarm.js
+Hyperdrive.js
 
 
