@@ -4,6 +4,13 @@ Run the client/app in your machine
 
 **Disclaimer:** The software is in still Beta
 
+**Pre Requsite**
+
+-  Hyperswarm
+-  Hyperbee
+-  Hyperdrive
+-  Hypercore
+
 ## How install
 
 Install Hyperbee, Hyperdrive and hyperswarm from HyperCore
