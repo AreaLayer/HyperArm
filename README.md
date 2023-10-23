@@ -33,3 +33,8 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 ## Contribution
 
 [Contributions rules](https://github.com/AreaLayer/HyperArm/blob/main/CONTRIBUTING.md)
+
+## Roadmap
+
+- [] Fix final issues and bugs
+- [] Release out of Beta version
