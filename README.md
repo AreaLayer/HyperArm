@@ -36,5 +36,6 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 
 ## Roadmap
 
-- [] Fix final issues and bugs
-- [] Release out of Beta version
+- [ ] Fix final issues and bugs
+- [ ] Release out of Beta version
+- [ ] Clear documecumentation
