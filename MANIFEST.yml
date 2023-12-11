@@ -1,4 +1,5 @@
 name: Hyperarm
+description: P2P API for Bitcoin prices
 license: MIT
 authors: 22388o and Rsync25
 type: FOSS
