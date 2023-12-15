@@ -39,4 +39,4 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 - [x] Fix final issues and bugs (WIP)
 - [ ] Release out of Beta version
 - [x] Clear documecumentation (WIP)
-- [ ] Hyperswarm DHT
+- [x] Hyperswarm DHT (WIP)
