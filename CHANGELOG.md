@@ -1,3 +1,3 @@
-## Hyperarm Releases
+## Hyperarm Releases and Development
 
 TBD
