@@ -35,3 +35,9 @@ const db = new Hyperswarm('./bitcoin-pairs-feed',"bitfinex_price_feed', {
   refreshTime: '3 minutes',
   valueEncoding: 'co.json'
 })
+// create a new HyperDHT instance
+const db = new HyperswarmDHT('./bitcoin-pairs-feed',"bitfinex_price_feed', {
+  KeyEndocing: 'utf-8',
+  refreshTime: '3 minutes',
+  valueEncoding: 'co.json'
+                         
