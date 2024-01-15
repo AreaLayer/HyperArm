@@ -39,4 +39,4 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperd
 - [x] Fix final issues and bugs (WIP)
 - [ ] Release out of Beta version in 2024
 - [x] Clear documecumentation (WIP)
-- [x] Hyperswarm DHT (WIP)
+- [x] Hyperswarm DHT 
