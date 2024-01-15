@@ -2,7 +2,7 @@
 
 **Disclaimer**: Beta Software
 
- P2P API Bitcoin prices on Hypercore, HyperBee, Hypersarm and Hyperdrive
+ P2P API Bitcoin prices on Hypercore, HyperBee, Hyperswarm, HyperswarmDHT and Hyperdrive
 
 **Contributions are welcome**
  
