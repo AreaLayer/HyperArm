@@ -8,7 +8,7 @@
  
 ## Service
 
-Our product offer API price basead on Hypercore, HyperBee, Hyperswarm and Hyperdrive
+Our product offer API price basead on Hypercore, HyperBee, Hyperswarm, HyperswarDHT and Hyperdrive
 
 ## Features
 
