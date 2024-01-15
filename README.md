@@ -14,7 +14,7 @@ Our product offer API price basead on Hypercore, HyperBee, Hyperswarm, Hyperswar
 
 - Real price time
 
-- Bitcoin-only, not shitcoins
+- Bitcoin-only
 
 - P2P API powered by Hyperbee
 
