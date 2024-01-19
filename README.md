@@ -1,6 +1,6 @@
 # HyperArm 🕳️🥊
 
-**Disclaimer**: Beta Software
+ **⚠️Beta Software**
 
  P2P API Bitcoin prices on Hypercore, HyperBee, Hyperswarm, HyperswarmDHT and Hyperdrive
 
