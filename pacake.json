@@ -1,6 +1,6 @@
 {
 "name":"Hypearm"
-"version":"1.0.8-beta"
+"version":"1.0.-beta"
 "license":"MIT"
 "author":"Area Layer"
 },
@@ -19,3 +19,4 @@
 "license":"MIT"
 "version":"^4.7.7"
 },
+"scripts",
